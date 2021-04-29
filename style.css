@@ -38,8 +38,6 @@
     position: relative;
     z-index: auto;
     padding-left: 15%;
-    
-    
 }
 
 .text h1{
@@ -65,14 +63,13 @@
 
 .text h2{
     position: absolute;
-    font-size: 3.9em;
+    font-size: 3em;
     bottom: 150px;
     left: 550px;
     width: 100%;
     z-index: 1000;
     display: flex;
     align-items: center;
-    justify-content:space-between;
     color:rgb(255, 230, 0);
       
 }
